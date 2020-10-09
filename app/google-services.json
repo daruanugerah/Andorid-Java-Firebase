@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777054749934",
+    "firebase_url": "https://fir-intermediate-daru.firebaseio.com",
+    "project_id": "fir-intermediate-daru",
+    "storage_bucket": "fir-intermediate-daru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777054749934:android:182937306edcbad8d69fff",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintermediate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777054749934-56ldngn6a0ap7qclunncss0b1cg7b4j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnIpefBDnESI70Hyh85BFqHuhc9AXRIHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777054749934-56ldngn6a0ap7qclunncss0b1cg7b4j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
